@@ -1,8 +1,8 @@
 # Diamond Price Predictor
 
-<img src="diamond.png" alt="Picture" width="300"/>
-
 This project aims to predict the price of diamonds using various regression techniques. By analyzing nearly 54,000 diamond records, the model learns the relationship between a diamond's physical properties (like the 4 Cs: Carat, Cut, Color, Clarity) and its market value.
+
+<img src="diamond.png" alt="Picture" width="300"/>
 
 ### Dataset
 The project utilizes the Diamonds dataset, containing records for approximately 53,940 diamonds with 10 descriptive attributes.
